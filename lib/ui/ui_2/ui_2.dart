@@ -116,7 +116,10 @@ class Ui2 extends StatelessWidget {
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15.r),
                         gradient: const LinearGradient(
-                            colors: [Color(0xff8B78FF), Color(0xff5451D6)],
+                            colors: [
+                              Color(0xff8B78FF),
+                              Color(0xff5451D6),
+                            ],
                             begin: Alignment.topLeft,
                             end: Alignment.bottomRight),
                       ),
