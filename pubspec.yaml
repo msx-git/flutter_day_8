@@ -28,6 +28,8 @@ flutter:
       fonts:
         - asset: assets/fonts/Product Sans Bold.ttf
           weight: 700
+        - asset: assets/fonts/Product Sans Regular.ttf
+          weight: 400
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
